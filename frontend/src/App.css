@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.div1{
+  background-color: pink;
+  height:'300px';
+}
+.div2{
+  background-color: blue;
+  height:'600px';
+}
+.div3{
+  background-color: yellow;
+  height:'900px';
+}
